@@ -72,6 +72,12 @@ Whether you're a novice eager to learn or an expert ready to share your knowledg
 
 🔗 For discussions on GenAI, agents, or to explore knowledge-sharing opportunities, feel free to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
 
+🧠 **Hands-On Experience**  
+In addition to exploring the tutorials, I have also successfully run the project locally. This includes working through the `.ipynb` notebooks and implementing the `e2e_testing_agent_app.py` file. This hands-on experience helped me understand how the components integrate to create a fully functional Agentic AI application.
+
+Keywords: GenAI, Generative AI, Agents, NLP, AI, Machine Learning, Natural Language Processing, LLM, Conversational AI, Task-Oriented AI
+
+
 ## Key Features
 
 - 🎓 Learn to build GenAI agents from beginner to advanced levels
@@ -82,6 +88,11 @@ Whether you're a novice eager to learn or an expert ready to share your knowledg
 - 🤝 Share your own agent creations with the community
 
 ## GenAI Agent Implementations
+
+GenAI Agent Implementations  
+
+📂explored — including all notebooks (`.ipynb`) and key scripts like `e2e_testing_agent_app.py` — ensuring clarity, understanding, and hands-on familiarity with every implementation.
+
 
 Below is a comprehensive overview of our GenAI agent implementations, organized by category and functionality. Each implementation is designed to showcase different aspects of AI agent development, from basic conversational agents to complex multi-agent systems.
 
